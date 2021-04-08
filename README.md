@@ -10,3 +10,4 @@ Future improvements:
 - Animate menu to slide away after clicking link
 - Add google oauth for sign in
 - Clean up TWEET button to work better with Form.js
+- Get counter to count number of tweets sent
