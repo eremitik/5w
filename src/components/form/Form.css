@@ -1,0 +1,81 @@
+.InputForm{
+  text-align: center;
+  width: 100%;
+}
+
+.formy {
+  display: inline-flex;
+  flex-direction: column;
+}
+
+label {
+  margin-top: 40px;
+  font-weight: bold;
+}
+
+input {
+  font-size: 1em;
+  border: 0;
+  outline: 0;
+  background: transparent;
+  border-bottom: 1px solid white;
+  width: 500px;
+  color: white;
+  font-family: "Montserrat";
+}
+::placeholder {
+  color: white;
+  font-weight: bold;
+  font-family: "Montserrat";
+}
+
+.error {
+  color: white;
+  font-size: .6em;
+  text-align: left;
+  margin-bottom: -11px;
+ }
+
+.form-button {
+  background: transparent;
+  border: 4px solid white;
+  border-radius: 25px;
+  outline: 0;
+  width: 200px;
+  height: 50px;
+  color: white;
+  margin-top: 75px;
+  font-family: "Montserrat";
+  font-size: 1.1em;
+  font-weight: bold;
+  letter-spacing: 0.5rem;
+  text-indent: 0.5rem;
+  cursor: pointer;
+  transition: 0.4s;
+}
+
+.form-button:hover{
+  background: white;
+  color: black;
+}
+
+
+h3 {
+  font-weight: normal;
+  font-size: 0.7rem;
+  margin-top: 50px;
+}
+
+@media (max-width: 990px) {
+  input{
+    width: 80vw;
+  }
+  label {
+    margin-top: 30px;
+  }
+  button {
+    margin-top: 10vh;
+  }
+}
+
+
