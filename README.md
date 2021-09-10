@@ -1,6 +1,6 @@
 # 5w
 
-Who, what, when and where are the hard facts for any news - 5w gives you the facts, you fill in the 'why'.
+Who, what, when and where are the hard facts for any news - 5w gives you the facts, you fill in the 'why'.\
 Please visit the site [here](https://eremitik-5w.netlify.app/#/)!
 
 ![home](./home.png)
