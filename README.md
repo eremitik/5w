@@ -1,13 +1,21 @@
-Second project created from scratch.
+# 5w
 
-Using:
-- Formik (form input on homepage)
-- Framer-motion (menu slide, hamburger animation)
-- Styled-components (easier css)
-- React router
+Who, what, when and where are the hard facts for any news - 5w gives you the facts, you fill in the 'why'.
+Please visit the site [here](https://eremitik-5w.netlify.app/#/)!
 
-Future improvements:
-- Animate menu to slide away after clicking link
-- Add google oauth for sign in
-- Clean up TWEET button to work better with Form.js
-- Get counter to count number of tweets sent
+![home](./home.png)
+
+## Quick start
+
+```
+yarn install
+yarn start
+```
+
+## Technologies used
+
+[React](https://reactjs.org/)\
+[Formik](https://formik.org/)\
+[Framer Motion](https://www.framer.com/motion/)\
+[Styled-components](https://styled-components.com/)\
+[Yup](https://www.npmjs.com/package/yup)
